@@ -53,11 +53,8 @@ resultadoB2 = cardBlack2Pick(nombre_archivo3)
 # Variable contenedora de modificacion del caracter "_" para 
 # las cartas de doble pick. Esto toma dos resultadosW para colocarlo en resultadoB2.
 
-
 mensaje = resultadoB2.replace("_", resultadoW)
 print(mensaje)
-
-
 
 # print(resultadoB)
 # print(resultadoB2)
