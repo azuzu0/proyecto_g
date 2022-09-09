@@ -6,15 +6,15 @@ Este proyecto es meramente para afianzar temas de programacion a nivel basico/in
 
 # FAQ
 
-###### ¿Como funciona este proyecto?
+#### ¿Como funciona este proyecto?
 
 El proyecto funciona bajo la funcionalidades que ofrece Python en su version 3, agregado a eso ejecuta el codigo via Django.
 
-###### Estado del Proyecto.
+#### Estado del Proyecto.
 
 Actualmente se encuentra bajo desarrollo.
 
-###### ¿Puedo usar el código?
+#### ¿Puedo usar el código?
 
 Claro, se puede usar este código para cualquier fin.
 
