@@ -36,5 +36,5 @@ Claro, se puede usar este código para cualquier fin.
 
 # Errorlog
 
-- Se genera *un error al cargar los arhivos necesaios*.
+- Se genera *un error al cargar los arhivos necesarios*.
 - Se genera *un problema que al tomar una carta Blanca para remplazarlo en tres casillas de una Carta Negra es la misma*.
