@@ -22,14 +22,19 @@ Claro, se puede usar este código para cualquier fin.
 
 #### Version 0
 
-- Creación del codigo base con un minimo de funcionalidad.
++ Creación del codigo base con un minimo de funcionalidad.
 
 #### Version 0.1
 
-- Se agregan excepciones.
-- Se creo una base con dos archivos .txt donde se alojan las cartas Blancas y Negras.
-- Su funcionalidad es basica y rustica.
++ Se agregan excepciones.
++ Se creo una base con dos archivos .txt donde se alojan las cartas Blancas y Negras.
++ Su funcionalidad es basica y rustica.
+
+#### Version 1
+* Se elimino la logica anterior de juego de cartas y se modifico a un modo RPG.
+* Mantendra el uso de las cartas "contra la humanidad" solo que estas seran usadas como cartas bonus.
 
 # Errorlog
 
+- Se genera *un error al cargar los arhivos necesaios*.
 - Se genera *un problema que al tomar una carta Blanca para remplazarlo en tres casillas de una Carta Negra es la misma*.
