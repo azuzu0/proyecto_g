@@ -1,0 +1,5 @@
+Descripción: Está carta te dara tres puntos de HP y dos puntos de DEF.
+HP: 3
+ATQ: 0
+DEF: 2
+EXP: 0
