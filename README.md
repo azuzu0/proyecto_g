@@ -1,6 +1,6 @@
 # Proyecto G.
 
-Este proyecto se basa en el popular juego de cartas en fisico "Cartas contra la Humanidad" que es un juego de socialización actualmente disponible como descarga gratuita ([https://cartascontralahumanidad.com/]() ) o como copia distribuida. Su título es una referencia a la frase crímenes contra la humanidad, en alusión a su contenido políticamente incorrecto. Basandose de estas premisas se quiere llevar acabo lo mismo pero en Python y con una proyección visual en HTML.
+Este proyecto se basa en el popular juego de cartas en fisico "Cartas contra la Humanidad" que es un juego de socialización actualmente disponible como descarga gratuita https://cartascontralahumanidad.com/ o como copia distribuida. Su título es una referencia a la frase crímenes contra la humanidad, en alusión a su contenido políticamente incorrecto. Basandose de estas premisas se quiere llevar acabo lo mismo pero en Python y con una proyección visual en HTML.
 
 Este proyecto es meramente para afianzar temas de programacion a nivel basico/intermedio de igualmanera no pretende ser una copia exacta del juego original.
 
